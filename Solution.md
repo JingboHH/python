@@ -1,4 +1,4 @@
-# python
+# python solutions
 ## List Comprehensions
 ```py
 if __name__ == '__main__':
