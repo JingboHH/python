@@ -297,7 +297,7 @@ if __name__ == '__main__':
     n = int(input())
     print_rangoli(n)
 ```
-# Capitalize!
+## Capitalize!
 ```py
 #!/bin/python3
 
